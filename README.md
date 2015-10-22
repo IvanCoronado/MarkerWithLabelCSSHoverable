@@ -1,2 +1,3 @@
 # MarkerWithLabelCSSHoverable
-Same as https://github.com/googlemaps/v3-utility-library/blob/master/markerwithlabel/src/markerwithlabel.js but you can use css hover in markers label.
+Same as https://github.com/googlemaps/v3-utility-library/blob/master/markerwithlabel/src/markerwithlabel.js you can style
+marker label with css hover.
